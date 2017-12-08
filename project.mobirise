@@ -3,7 +3,7 @@
     "name": "My Site",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 38,
+    "uniqCompNum": 47,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -539,10 +539,10 @@
             },
             "overlay": false,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.4"
           },
-          "title": "台中科技大學 &nbsp;空中學院<br><br><i>資管 2-2網頁設計</i><i><br></i>",
-          "text": "姓名 : 尤靖瑄 &nbsp; &nbsp;學號 : 4210504066",
+          "title": "台中科技大學 &nbsp;空中學院<br><br>資管 2-2<i><br></i><i><br></i>",
+          "text": "姓名 : 尤靖瑄 &nbsp; &nbsp;<br><br>學號 : 4210504066<br><br><br><br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://www.facebook.com/profile.php?id=100000449803760\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">我的臉書</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://elvishsieh.github.io/teaching/usingMobirise/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">老師的網頁</a>",
           "_tags": [
             "Theme"
@@ -553,8 +553,37 @@
           "_styles": {
             "H1": {
               "text-align": "right"
+            },
+            "P": {
+              "text-align": "right"
             }
           }
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=aa2AhDaK_iY&index=36&list=PLFgquLnL59amN9tYr7o2a60yFUfzQO3sU",
+              "autoplay": "on",
+              "loop": "on"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-1a"
         },
         {
           "_params": {

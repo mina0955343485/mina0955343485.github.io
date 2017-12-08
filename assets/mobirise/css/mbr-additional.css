@@ -476,6 +476,12 @@ padding-bottom: (@paddingBottom * 15px);
 H1 {
   text-align: right;
 }
+P {
+  text-align: right;
+}
+}
+
+#video2-1a {
 }
 
 #contacts1-x {
